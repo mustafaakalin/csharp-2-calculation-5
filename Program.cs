@@ -38,7 +38,7 @@ namespace MyApp
                 default:
                     Console.WriteLine("HATALI GIRIS: PROGRAM BASA DONULUYOR ");
                     goto start;
-                    break;
+                    // break;
             }
 
             // Console.WriteLine("Hello World!");
